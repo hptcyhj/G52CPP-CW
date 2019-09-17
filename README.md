@@ -1,4 +1,4 @@
-# G52CPP-CW
+# Space Invaders
 
 This is my coursework of C++ Programming module.
 
